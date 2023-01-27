@@ -1,1 +1,2 @@
-# SenadTopcic-jp_morgan_task3
+# JPMC Task 3
+Starter repo for task 3 of JPMC's Forage program
